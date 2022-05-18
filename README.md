@@ -11,3 +11,5 @@
 ## expo install react-native-gesture-handler
 ## npm install react-native-gesture-handler
 ## npm i react-native-vector-icons
+# om als Admin in te kunnrn login met Email: Admin@Admin.nl Wachtwoord:11
+# om als Klant in te kunnrn login met Email: Klant@Klant.nl Wachtwoord:11
